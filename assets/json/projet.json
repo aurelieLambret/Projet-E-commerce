@@ -1,0 +1,201 @@
+[
+  {
+    "productId" : "blouson1",
+    "productCategory" : "Blouson",
+    "productImage": "assets/images/blousons/1.jpg",
+    "productName": "Blouson1",
+    "productPrice": 69.55,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "blouson2",
+    "productCategory" : "Blouson",
+    "productImage": "assets/images/blousons/2.jpg",
+    "productName": "Blouson2",
+    "productPrice": 69.55,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "blouson3",
+    "productCategory" : "Blouson",
+    "productImage": "assets/images/blousons/3.jpg",
+    "productName": "Blouson3",
+    "productPrice": 69.55,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "blouson4",
+    "productCategory" : "Blouson",
+    "productImage": "assets/images/blousons/4.jpg",
+    "productName": "Blouson4",
+    "productPrice": 69.55,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "blouson5",
+    "productCategory" : "Blouson",
+    "productImage": "assets/images/blousons/5.jpg",
+    "productName": "Blouson5",
+    "productPrice": 69.55,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "gant1",
+    "productCategory" : "Gant",
+    "productImage": "assets/images/gants/1.jpeg",
+    "productName": "Gant1",
+    "productPrice": 29.95,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "gant2",
+    "productCategory" : "Gant",
+    "productImage": "assets/images/gants/2.jpeg",
+    "productName": "Gant2",
+    "productPrice": 29.95,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "gant3",
+    "productCategory" : "Gant",
+    "productImage": "assets/images/gants/3.jpeg",
+    "productName": "Gant3",
+    "productPrice": 29.95,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "gant4",
+    "productCategory" : "Gant",
+    "productImage": "assets/images/gants/4.jpeg",
+    "productName": "Gant4",
+    "productPrice": 29.95,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "gant5",
+    "productCategory" : "Gant",
+    "productImage": "assets/images/gants/5.jpeg",
+    "productName": "Gant5",
+    "productPrice": 29.95,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "parapluie1",
+    "productCategory" : "Parapluie",
+    "productImage": "assets/images/parapluie/1.jpg",
+    "productName": "Parapluie1",
+    "productPrice": 19.99,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "parapluie2",
+    "productCategory" : "Parapluie",
+    "productImage": "assets/images/parapluie/2.jpg",
+    "productName": "Parapluie2",
+    "productPrice": 19.99,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "parapluie3",
+    "productCategory" : "Parapluie",
+    "productImage": "assets/images/parapluie/3.jpg",
+    "productName": "Parapluie3",
+    "productPrice": 19.99,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "parapluie4",
+    "productCategory" : "Parapluie",
+    "productImage": "assets/images/parapluie/4.jpg",
+    "productName": "Parapluie4",
+    "productPrice": 19.99,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur ipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "parapluie5",
+    "productCategory" : "Parapluie",
+    "productImage": "assets/images/parapluie/5.jpg",
+    "productName": "Parapluie5",
+    "productPrice": 19.99,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "parapluie6",
+    "productCategory" : "Parapluie",
+    "productImage": "assets/images/parapluie/6.jpg",
+    "productName": "Parapluie6",
+    "productPrice": 19.99,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "parapluie7",
+    "productCategory" : "Parapluie",
+    "productImage": "assets/images/parapluie/7.jpg",
+    "productName": "Parapluie7",
+    "productPrice": 19.99,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "echarpe1",
+    "productCategory" : "Echarpe",
+    "productImage": "assets/images/echarpes/1.jpg",
+    "productName": "Echarpe1",
+    "productPrice": 9.95,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "echarpe2",
+    "productCategory" : "Echarpe",
+    "productImage": "assets/images/echarpes/2.jpg",
+    "productName": "Echarpe2",
+    "productPrice": 9.95,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "echarpe3",
+    "productCategory" : "Echarpe",
+    "productName":"Echarpes3",
+    "productImage": "assets/images/echarpes/3.jpg",
+    "productName": "Echarpe3",
+    "productPrice": 9.95,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "echarpe4",
+    "productCategory" : "Echarpe",
+    "productImage": "assets/images/echarpes/4.jpg",
+    "productName": "Echarpe4",
+    "productPrice": 9.95,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  },
+  {
+    "productId" : "echarpe5",
+    "productCategory" : "Echarpe",
+    "productImage": "assets/images/echarpes/5.jpg",
+    "productName": "Echarpe5",
+    "productPrice": 9.95,
+    "productDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit deserunt voluptates at officia ab dignissimos praesentium rerum voluptatem",
+    "productQt": 1
+  }
+]
